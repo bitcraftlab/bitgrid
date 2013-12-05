@@ -3,6 +3,8 @@ bitgrid
 
 A Processing library for working with hexagonal and triangular grids.
 
+![screenshot](screenshot.png)
+
 ### Usage
 
 See the included example.
